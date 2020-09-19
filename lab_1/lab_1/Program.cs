@@ -7,7 +7,7 @@ namespace lab_1
         static void enterVariable(out double variable, char name)
         {
             Console.Write($"Введите пожалуста {name}: ");
-            variable = Convert.ToInt32(Console.ReadLine());     
+            variable = Convert.ToDouble(Console.ReadLine());     
         }
 
         static double calculateVolume(double height, Double radius) => (Math.PI * radius * radius * height);
