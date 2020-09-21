@@ -1,0 +1,14 @@
+C:\Users\Vlad\source\repos\lab_4\lab_4\bin\Debug\lab_4.exe.config
+C:\Users\Vlad\source\repos\lab_4\lab_4\bin\Debug\lab_4.exe
+C:\Users\Vlad\source\repos\lab_4\lab_4\bin\Debug\lab_4.pdb
+C:\Users\Vlad\source\repos\lab_4\lab_4\obj\Debug\lab_4.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\lab_4\lab_4\obj\Debug\lab_4.exe
+C:\Users\Vlad\source\repos\lab_4\lab_4\obj\Debug\lab_4.pdb
+C:\Projects\C#\lab_4\lab_4\bin\Debug\lab_4.exe.config
+C:\Projects\C#\lab_4\lab_4\bin\Debug\lab_4.exe
+C:\Projects\C#\lab_4\lab_4\bin\Debug\lab_4.pdb
+C:\Projects\C#\lab_4\lab_4\obj\Debug\lab_4.csprojAssemblyReference.cache
+C:\Projects\C#\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+C:\Projects\C#\lab_4\lab_4\obj\Debug\lab_4.exe
+C:\Projects\C#\lab_4\lab_4\obj\Debug\lab_4.pdb
