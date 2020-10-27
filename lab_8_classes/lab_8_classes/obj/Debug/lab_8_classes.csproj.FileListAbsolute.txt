@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\lab_8_classes\lab_8_classes\bin\Debug\lab_8_classes.exe.config
+C:\Users\Vlad\source\repos\lab_8_classes\lab_8_classes\bin\Debug\lab_8_classes.exe
+C:\Users\Vlad\source\repos\lab_8_classes\lab_8_classes\bin\Debug\lab_8_classes.pdb
+C:\Users\Vlad\source\repos\lab_8_classes\lab_8_classes\obj\Debug\lab_8_classes.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\lab_8_classes\lab_8_classes\obj\Debug\lab_8_classes.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\lab_8_classes\lab_8_classes\obj\Debug\lab_8_classes.exe
+C:\Users\Vlad\source\repos\lab_8_classes\lab_8_classes\obj\Debug\lab_8_classes.pdb
