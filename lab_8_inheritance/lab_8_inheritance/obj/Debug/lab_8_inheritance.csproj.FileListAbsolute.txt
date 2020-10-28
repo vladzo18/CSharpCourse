@@ -1,0 +1,7 @@
+C:\Projects\C#\lab_8_inheritance\lab_8_inheritance\bin\Debug\lab_8_inheritance.exe.config
+C:\Projects\C#\lab_8_inheritance\lab_8_inheritance\bin\Debug\lab_8_inheritance.exe
+C:\Projects\C#\lab_8_inheritance\lab_8_inheritance\bin\Debug\lab_8_inheritance.pdb
+C:\Projects\C#\lab_8_inheritance\lab_8_inheritance\obj\Debug\lab_8_inheritance.csprojAssemblyReference.cache
+C:\Projects\C#\lab_8_inheritance\lab_8_inheritance\obj\Debug\lab_8_inheritance.csproj.CoreCompileInputs.cache
+C:\Projects\C#\lab_8_inheritance\lab_8_inheritance\obj\Debug\lab_8_inheritance.exe
+C:\Projects\C#\lab_8_inheritance\lab_8_inheritance\obj\Debug\lab_8_inheritance.pdb
