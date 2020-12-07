@@ -45,6 +45,11 @@ namespace lab_9
             Console.WriteLine();
             pct.Draw();
 
+            Console.WriteLine(new string('#', 70));
+            Painter.Draw(square);
+            Painter.Draw(circle);
+            Painter.Draw(triangle);
+
             //Delay
             Console.ReadKey(); 
         }
